@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">KreatorPlanuTreningowego</string>
+    <string name="mainText1">Witaj w aplikacji kreatora planu treningowego.
+                            Pozwala ona na ułożenie własnego planu treningowego na siłowni oraz
+                            pomoc przy liczeniu serii i ciężaru w trakcie treningu.</string>
+    <string name="btnCreate">Utwórz plan</string>
+    <string name="btnTrain">Trenuj</string>
+    <string name="mainText3">Aby przejść do układania planu wciśnij przycisk Ułóż plan.</string>
+    <string name="mainText4">Aby przejść do treningu wciśnij przycisk Trenuj.</string>
+    <string-array name="spinnerItems">
+        <item>Klatka</item>
+        <item>Nogi</item>
+        <item>Biceps</item>
+        <item>Triceps</item>
+        <item>Przedramię</item>
+        <item>Barki</item>
+        <item>Plecy</item>
+        <item>Brzuch</item>
+    </string-array>
+    <string name="mainText2">Aby dodać ćwiczenia bo bazy wciśnij przycisk Dodaj ćwiczenia</string>
+    <string name="btnAdd">Dodaj ćwiczenia</string>
+    <string-array name="days">
+        <item>Poniedziałek</item>
+        <item>Wtorek</item>
+        <item>Środa</item>
+        <item>Czwartek</item>
+        <item>Piątek</item>
+        <item>Sobota</item>
+        <item>Niedziela</item>
+    </string-array>
+    <string name="createText1">Układanie planu treningowego</string>
+    <string name="dayChooseText">Wybierz dzień</string>
+    <string name="exerciseChooseText">Wybierz ćwiczenia</string>
+    <string name="textWybrCwicz">Wybrane ćwiczenia</string>
+    <string name="title_activity_train">TrainActivity</string>
+</resources>
